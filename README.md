@@ -1,2 +1,16 @@
-# PasswordGenerator
-A password generator made with JavaScript. Allow this generator to create the most complex passwords for you. 
+<h3 align="center">
+  Projeto Password Generator
+</h3>
+
+## :rocket: Sobre a página
+
+Um gerador de senhas feito em JavaScript.
+
+#### :wrench: Techs utilizadas:
+* _HTML_
+* _JS_
+* _CSS_
+
+### :bulb: Tela da aplicação
+
+![image](https://github.com/JonanthaW/PasswordGenerator/blob/main/assets/example1.jpg)
